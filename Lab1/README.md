@@ -1,4 +1,4 @@
-##Please run the below DDL query before you execute this application.  
+## Query to run in `SQL`
 
 CREATE TABLE Author
 (authorId NUMBER(6) PRIMARY KEY,
